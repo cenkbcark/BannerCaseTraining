@@ -2,6 +2,7 @@
   "getBannerList": [
     {
       "title": "Banner Title 1",
+      "titleVisible": false,
       "type": 0,
       "items": [
         {
@@ -33,6 +34,7 @@
     },
     {
       "title": "Banner Title 2",
+      "titleVisible": false,
       "type": 0,
       "items": [
         {
@@ -59,6 +61,7 @@
     },
     {
       "title": "Banner Title 3",
+      "titleVisible": false,
       "type": 0,
       "items": [
         {
@@ -80,6 +83,7 @@
     },
     {
       "title": "Rectangle Carousel",
+      "titleVisible": true,
       "type": 1,
       "items": [
         {
