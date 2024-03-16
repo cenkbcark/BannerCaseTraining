@@ -77,6 +77,37 @@
           "actionId": 0
         }
       ]
+    },
+    {
+      "title": "Rectangle Carousel",
+      "type": 1,
+      "items": [
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        }
+      ]
     }
   ]
 }
