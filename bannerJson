@@ -8,6 +8,26 @@
           "actionType": 0,
           "imageUrl": "imageurl",
           "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
         }
       ]
     },
@@ -19,6 +39,16 @@
           "actionType": 0,
           "imageUrl": "imageurl",
           "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
         }
       ]
     },
@@ -26,6 +56,16 @@
       "title": "Banner Title 3",
       "type": 0,
       "items": [
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
+        {
+          "actionType": 0,
+          "imageUrl": "imageurl",
+          "actionId": 0
+        },
         {
           "actionType": 0,
           "imageUrl": "imageurl",
