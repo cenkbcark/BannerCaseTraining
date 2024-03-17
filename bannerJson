@@ -4,6 +4,9 @@
       "title": "Banner Title 1",
       "titleVisible": false,
       "type": 0,
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
@@ -36,6 +39,9 @@
       "title": "Banner Title 2",
       "titleVisible": false,
       "type": 0,
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
@@ -63,6 +69,9 @@
       "title": "Banner Title 3",
       "titleVisible": false,
       "type": 0,
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
@@ -85,6 +94,9 @@
       "title": "Rectangle Carousel",
       "titleVisible": true,
       "type": 1,
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
@@ -110,6 +122,43 @@
           "actionType": 0,
           "imageUrl": "imageurl",
           "actionId": 0
+        }
+      ]
+    },
+    {
+      "title": "Rectangle Carousel",
+      "titleVisible": true,
+      "type": 2,
+      "productList": [
+        {
+          "productName": "Regular Pantolon",
+          "brand": "Mavi",
+          "productImageUrl": "urlTest",
+          "productPrice": "122,95"
+        },
+        {
+          "productName": "Slim Fit Pantolon",
+          "brand": "Berskha",
+          "productImageUrl": "urlTest",
+          "productPrice": "121,96"
+        },
+        {
+          "productName": "Skinny Pantolon",
+          "brand": "Lacoste",
+          "productImageUrl": "urlTest",
+          "productPrice": "120,97"
+        },
+        {
+          "productName": "Oversize Pantolon",
+          "brand": "Mudo",
+          "productImageUrl": "urlTest",
+          "productPrice": "124,98"
+        },
+        {
+          "productName": "Regular Pantolon",
+          "brand": "Tiffany",
+          "productImageUrl": "urlTest",
+          "productPrice": "125,99"
         }
       ]
     }
