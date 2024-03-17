@@ -4,33 +4,31 @@
       "title": "Banner Title 1",
       "titleVisible": false,
       "type": 0,
-      "productList": [
-        
-      ],
+      "productList": [],
       "items": [
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ed3d547-94ff-48e1-9f20-8c14a7030a02_2000x2000.jpeg",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://i.pinimg.com/736x/9c/b0/bc/9cb0bc7cab743ffccd22c07719ec9ba3.jpg",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://m.media-amazon.com/images/G/41/social_share/amazon_logo._CB633269640_.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://pbs.twimg.com/profile_images/1511043794937991169/3B5fpOw8_400x400.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://www.etgigrup.com/wp-content/uploads/2021/02/samsung-logo.jpg",
           "actionId": 0
         }
       ]
@@ -39,28 +37,26 @@
       "title": "Banner Title 2",
       "titleVisible": false,
       "type": 0,
-      "productList": [
-        
-      ],
+      "productList": [],
       "items": [
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/WpcTavg99b5XpK6STzSLZ8-1024-80.jpg.webp",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://seeklogo.com/images/M/Mercedes-Benz-logo-E47583B444-seeklogo.com.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://i.pinimg.com/originals/45/1d/df/451ddf96e958c635948cd88c29892565.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://i.insider.com/53d29d5c6bb3f7a80617ada8?width=800&format=jpeg&auto=webp",
           "actionId": 0
         }
       ]
@@ -69,23 +65,21 @@
       "title": "Banner Title 3",
       "titleVisible": false,
       "type": 0,
-      "productList": [
-        
-      ],
+      "productList": [],
       "items": [
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/2048px-BMW.svg.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Tesla_logo.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/1200px-Starbucks_Corporation_Logo_2011.svg.png",
           "actionId": 0
         }
       ]
@@ -94,33 +88,31 @@
       "title": "Rectangle Carousel",
       "titleVisible": true,
       "type": 1,
-      "productList": [
-        
-      ],
+      "productList": [],
       "items": [
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/26o7u8mmlz5ehh261ntxu.jpg",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/fsohlhx0apabthbulo4fj.jpg",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/wet6kigf8rk7xn6v0vcg.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/nssj66g4x32h9ugbncfus.png",
           "actionId": 0
         },
         {
           "actionType": 0,
-          "imageUrl": "imageurl",
+          "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/pqich5ijtowcol2gg4yng.png",
           "actionId": 0
         }
       ]
@@ -133,31 +125,31 @@
         {
           "productName": "Regular Pantolon",
           "brand": "Mavi",
-          "productImageUrl": "urlTest",
+          "productImageUrl": "https://cdn.pazarama.com/mnresize/226/224/asset/869866PZROPNT0019/images/ghassycoerkektaktikceplioutdoorpolarpantolon-1.jpg",
           "productPrice": "122,95"
         },
         {
           "productName": "Slim Fit Pantolon",
           "brand": "Berskha",
-          "productImageUrl": "urlTest",
+          "productImageUrl": "https://cdn.pazarama.com/mnresize/226/224/asset/8699848330503/images/jomapolydynamicpantolon-1.jpg",
           "productPrice": "121,96"
         },
         {
           "productName": "Skinny Pantolon",
           "brand": "Lacoste",
-          "productImageUrl": "urlTest",
+          "productImageUrl": "https://cdn.pazarama.com/mnresize/226/224/asset/869866PZROPNT0009/images/ghassycoerkektaktikceplioutdoorpolarpantolon-1.jpg",
           "productPrice": "120,97"
         },
         {
           "productName": "Oversize Pantolon",
           "brand": "Mudo",
-          "productImageUrl": "urlTest",
+          "productImageUrl": "https://cdn.pazarama.com/mnresize/226/224/asset/869866PZROPNT0021/images/ghassycoerkektaktikceplioutdoorpolarpantolon-1.jpg",
           "productPrice": "124,98"
         },
         {
           "productName": "Regular Pantolon",
           "brand": "Tiffany",
-          "productImageUrl": "urlTest",
+          "productImageUrl": "https://cdn.pazarama.com/mnresize/226/224/asset/9925010257392/images/evoliteroutebayoutdoorpantolonkrmz-4.jpg",
           "productPrice": "125,99"
         }
       ]
