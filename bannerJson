@@ -4,32 +4,39 @@
       "title": "Banner Title 1",
       "titleVisible": false,
       "type": 0,
-      "productList": [],
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
           "imageUrl": "https://www.tailorbrands.com/wp-content/uploads/2021/01/apple_logo_1988.jpg",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://i.pinimg.com/736x/9c/b0/bc/9cb0bc7cab743ffccd22c07719ec9ba3.jpg",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://m.media-amazon.com/images/G/41/social_share/amazon_logo._CB633269640_.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://pbs.twimg.com/profile_images/1511043794937991169/3B5fpOw8_400x400.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://www.etgigrup.com/wp-content/uploads/2021/02/samsung-logo.jpg",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         }
       ]
     },
@@ -37,27 +44,33 @@
       "title": "Banner Title 2",
       "titleVisible": false,
       "type": 0,
-      "productList": [],
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/WpcTavg99b5XpK6STzSLZ8-1024-80.jpg.webp",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://seeklogo.com/images/M/Mercedes-Benz-logo-E47583B444-seeklogo.com.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://i.pinimg.com/originals/45/1d/df/451ddf96e958c635948cd88c29892565.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://i.insider.com/53d29d5c6bb3f7a80617ada8?width=800&format=jpeg&auto=webp",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         }
       ]
     },
@@ -65,7 +78,9 @@
       "title": "Banner Title 3",
       "titleVisible": false,
       "type": 0,
-      "productList": [],
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
@@ -88,32 +103,39 @@
       "title": "Rectangle Carousel",
       "titleVisible": true,
       "type": 1,
-      "productList": [],
+      "productList": [
+        
+      ],
       "items": [
         {
           "actionType": 0,
           "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/26o7u8mmlz5ehh261ntxu.jpg",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/fsohlhx0apabthbulo4fj.jpg",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/wet6kigf8rk7xn6v0vcg.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/nssj66g4x32h9ugbncfus.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         },
         {
           "actionType": 0,
           "imageUrl": "https://cdn.pazarama.com/mnresize/984/414/store/banners/pqich5ijtowcol2gg4yng.png",
-          "actionId": 0
+          "actionId": 0,
+          "actionUrl": "https://www.google.com"
         }
       ]
     },
